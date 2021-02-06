@@ -1,0 +1,3 @@
+include ':SmileyRatingBar'
+include ':app'
+rootProject.name = "SmileyRating-App"
