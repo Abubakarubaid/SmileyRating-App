@@ -5,7 +5,7 @@ SmileyRatingLibrary is a simple rating bar for android. It displays animated smi
 
 ## Demo
 
- <img src="https://github.com/Abubakarubaid/SmileyRating-App/tree/main/app/assets/demo.gif" alt="" width="575" height="205" />
+ <img src="https://github.com/Abubakarubaid/SmileyRating-App/tree/main/app/src/main/assets/demo.gif" alt="" width="575" height="205" />
 
 ## Integration
 Integrating SmileyRatingLibrary in your project is very simple.
