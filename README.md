@@ -5,7 +5,7 @@ SmileyRatingLibrary is a simple rating bar for android. It displays animated smi
 
 ## Demo
 
- <img src="https://raw.githubusercontent.com/sujithkanna/SmileyRating/master/app/src/main/assets/demo.gif" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="575" height="205" />
+ <img src="https://github.com/Abubakarubaid/SmileyRating-App/tree/main/app/assets/demo.gif" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="575" height="205" />
 
 ## Integration
 Integrating SmileyRatingLibrary in your project is very simple.
@@ -19,10 +19,10 @@ add this to your dependencies.
 Now place the SmileyRatingLibrary in your layout.
 ###### *Note: The height of the SmileyRatingLibrary will be automatically adjusted according to the width of this component.*
 ```xml
-<com.hsalf.smileyrating.SmileyRating
-        android:id="@+id/smile_rating"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+<com.abubakar.smileyratingbar.smileydata.SmileyRating
+    android:id="@+id/smileyRating"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
 ```
 ### Set this SmileySelectedListener to get notified when user selects a smiley
 *By default the selected smiley will be NONE*
